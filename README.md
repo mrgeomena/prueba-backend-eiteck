@@ -40,6 +40,8 @@ npm start
 
 Asi mismo me gustaria mensionar que ciertos aspectos de la aplicacion no estan completos, como por ejemplo la actualizacion de usuarios y la busqueda de usuarios por correo electronico por falta de tiempo, pero la aplicacion cumple con los requerimientos minimos solicitados.
 
+De igual manera, me gustaria mensionar la parte del frontend, la cual el algo basico, pero cumple con los requerimientos minimos solicitados para realizar la creacion, login y listado de usuarios.
+
 ### Tecnologias utilizadas
 
 - Node.js
