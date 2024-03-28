@@ -38,7 +38,7 @@ npm start
 
 > Se necesita tener mongoDB instalado y corriendo.
 
-==Asi mismo me gustaria mensionar que ciertos aspectos de la aplicacion no estan completos, como por ejemplo la actualizacion de usuarios y la busqueda de usuarios por correo electronico por falta de tiempo, pero la aplicacion cumple con los requerimientos minimos solicitados==
+Asi mismo me gustaria mensionar que ciertos aspectos de la aplicacion no estan completos, como por ejemplo la actualizacion de usuarios y la busqueda de usuarios por correo electronico por falta de tiempo, pero la aplicacion cumple con los requerimientos minimos solicitados.
 
 ### Tecnologias utilizadas
 
