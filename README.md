@@ -29,7 +29,7 @@ npm run dev
 ### Instalación manual
 
 ```sh
-git clone
+git clone https://github.com/mrgeomena/prueba-backend-eiteck.git
 cd mern-tasks-auth
 npm i
 npm run build
